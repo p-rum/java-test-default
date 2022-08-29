@@ -1,0 +1,14 @@
+<component name="ProjectRunConfigurationManager">
+    <configuration default="false" name="Application23" type="SpringBootApplicationConfigurationType"
+                   factoryName="Spring Boot">
+        <option name="ACTIVE_PROFILES"/>
+        <module name="java-test-default.main"/>
+        <option name="SPRING_BOOT_MAIN_CLASS" value="com.etnetera.hr.Application"/>
+        <option name="VM_PARAMETERS" value="-Dspring.config.additional-location=file:.run/application-local.yaml"/>
+        <method v="2">
+            <option name="Make" enabled="true"/>
+            <option name="RunConfigurationTask" enabled="true" run_configuration_name=".run: Compose Deployment"
+                    run_configuration_type="docker-deploy"/>
+        </method>
+    </configuration>
+</component>
